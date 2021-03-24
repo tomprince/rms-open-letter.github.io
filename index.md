@@ -1567,6 +1567,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Tom Howard
 1. Tom "spot" Callaway (Fedora Council member, former LP speaker)
 1. Tony Colston
+1. Tom Prince
 1. Tony Richards
 1. Tor Lillqvist (Collabora)
 1. Tracie Fabb (Collabora)
